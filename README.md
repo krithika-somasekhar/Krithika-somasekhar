@@ -1,6 +1,7 @@
 # 👋 Welcome to my GitHub! 
 
-# I'm Krithika Somasekhar, 📍 Based in the USA | 🌐 Passionate about data that drives action
+# I'm Krithika Somasekhar, 
+📍 Based in the USA | 🌐 Passionate about data that drives action
 
 ---
 

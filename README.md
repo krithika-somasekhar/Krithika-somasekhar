@@ -61,12 +61,15 @@ Streamlined survey data processing with Python & SQL and created visual insights
 📍 Olympic Medal Tableau Dashboard
 Interactive dashboard visualizing medal trends by country, gender, and sport
 Tableau | Parameter Controls | Performance Disparity Insights
+
 📍 MongoDB to Power BI ETL Pipeline
 Built a Python ETL pipeline to transform raw NoSQL data for real-time dashboards
 Python | MongoDB | Power BI | Automated Reporting
+
 📍 Quantium Retail Analytics Simulation
 Benchmarked store performance and identified uplift potential
 R | Transaction Analysis | Excel Charting | Strategic Reporting
+
 📍 Homicide Pattern Prediction
 Performed EDA on crime data and predicted high-risk areas with 87% accuracy
 Python | Pandas | Seaborn | Linear Regression

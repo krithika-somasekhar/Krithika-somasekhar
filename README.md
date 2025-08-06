@@ -37,6 +37,8 @@ Cloud:          AWS | Azure | Snowflake | GCP | Hadoop | Databricks
 ETL:            dbt | Apache Airflow | AWS Glue | Azure Data Factory
 Workflow:       JIRA | Smartsheet | Git | REST API | Agile/Scrum
 
+---
+
 ## 💼 Experience Snapshot
 
 **📍 JerseySTEM** – *Insights Analyst Intern*  
@@ -53,6 +55,8 @@ Automated dashboards, optimized cloud pipelines (AWS Glue, Athena), and improved
 
 **📍 ThinkNow Creative** – *Associate Data Analyst*  
 Streamlined survey data processing with Python & SQL and created visual insights for company marketing campaigns.
+
+---
 
 ## 💡 Featured Projects
 📍 Olympic Medal Tableau Dashboard

@@ -30,7 +30,6 @@ I don't just crunch numbers — I **tell stories with data** and align them with
 
 ## 🛠️ Tools & Technologies
 
-```bash
 Languages:      SQL | Python | R | SAS
 Visualization:  Power BI | Tableau | QuickSight | Excel (Advanced)
 Cloud:          AWS | Azure | Snowflake | GCP | Hadoop | Databricks
